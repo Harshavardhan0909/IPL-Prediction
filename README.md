@@ -48,18 +48,10 @@ Derived insights useful for strategy and decision-making
 Team performance comparison
 Win probability trends
 Player statistics charts
-▶️ How to Run
-# Clone the repository
-git clone https://github.com/your-username/ipl-analysis.git
-
-# Navigate to project
-cd ipl-analysis
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook
+
 📌 Future Improvements
 Add deep learning models for better prediction
 Deploy as a web application
